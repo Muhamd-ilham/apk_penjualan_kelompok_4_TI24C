@@ -65,4 +65,10 @@ Menampilkan rekapan seluruh transaksi gabungan dari tabel relasi (menggunakan *M
 5. Jalankan `FormLogin.java` yang berada di dalam *package* `view` untuk memulai aplikasi.
 
 ---
-**Kelompok 4 (TI24C) - Universitas Nusa Putra**
+**Kelompok 4 (TI24C) Terdiri dari
+Muhammad Ilham
+Wulandari Melani Putri
+Muhammad Rizky Fauzi
+Muhammad Noer Alamsyah 
+- Universitas Nusa Putra**
+
